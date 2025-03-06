@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙ Currently working on a React + Tailwind Project.<br>✔ 25+ Leetcode problems solved.<br>💻 Currently learning Front-End.<br>👨‍💻 Tech enthusiast.<br>🎮 Into video games.
+⚙ Currently working on a React + Tailwind Project.<br>✔ 70+ Leetcode problems solved.<br>💻 Currently learning Front-End.<br>👨‍💻 Tech enthusiast.<br>🎮 Into video games.
 
 
 ## 🌐 Socials:
