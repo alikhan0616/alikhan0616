@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙ Currently working on a School Management System in NextJs.<br>✔ 140+ Leetcode problems solved.<br>💻 Practicing Full stack MERN.<br>👨‍💻 Tech enthusiast.<br>🎮 Into video games.
+⚙ Currently working on a School Management System in NextJs.<br>✔ 160+ Leetcode problems solved.<br>💻 Practicing Full stack MERN.<br>👨‍💻 Tech enthusiast.<br>🎮 Into video games.
 
 
 ## 🌐 Socials:
